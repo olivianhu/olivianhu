@@ -1,7 +1,7 @@
 ## Hi, I'm Olivia! 
 - Currently a sophomore studying computer science with minors in economics and mathematics at the University of Pennsylvania
 - Interested in software dev, web dev, and data science
-- Also enjoy reading, going to concerts, trying new restaurants, and creating art!<br>
+- Also enjoy reading, going to concerts, trying new restaurants, and creating art!
 <br>
 Reach out to me at huolivia@seas.upenn.edu to chat!
 
