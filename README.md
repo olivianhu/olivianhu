@@ -1,5 +1,5 @@
 ## Hi, I'm Olivia! 
-- Currently a sophomore studying computer science with minors in economics and mathematics at the University of Pennsylvania. <br>
+* Currently a sophomore studying computer science with minors in economics and mathematics at the University of Pennsylvania. <br>
 - My main interests lie in software dev, web dev, and data science. <br>
 - I also enjoy reading, going to concerts, trying new restaurants, and creating art!
 
