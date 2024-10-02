@@ -3,7 +3,7 @@
 - Interested in software dev, web dev, and data science
 - Also enjoy reading, going to concerts, trying new restaurants, and creating art!
 <br>
-Reach out to me at [huolivia@seas.upenn.edu](huolivia@seas.upenn.edu) to chat!
+Reach out to me at huolivia@seas.upenn.edu to chat!
 
 <!--
 **olivianhu/olivianhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
