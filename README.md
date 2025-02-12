@@ -1,5 +1,5 @@
 Hi, I'm Olivia! 
-I'm currently a sophomore studying computer science at the University of Pennsylvania interested in software/web dev and data science. Outside of school, I like to explore music + restaurants! Feel free to reach out at [huolivia@seas.upenn.edu](huolivia@seas.upenn.edu) :)
+I'm a sophomore studying computer science at the University of Pennsylvania interested in software/web dev and data science. Outside of school, I like to explore music + restaurants! Feel free to reach out at [huolivia@seas.upenn.edu](huolivia@seas.upenn.edu) :)
 
 <!--
 **olivianhu/olivianhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
